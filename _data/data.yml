@@ -38,20 +38,20 @@ sidebar:
         - idiom: English
           level: Professional
 
-    # interests:
-    #   title: Interests
-    #   info:
-    #     - item: Running
-    #       link:
+    interests:
+      title: Interests
+      info:
+        - item: Running
+          link:
 
-    #     - item: Swimming
-    #       link:
+        - item: Swimming
+          link:
 
-    #     - item: Cooking
-    #       link:
+        - item: Cooking
+          link:
 
-    #     - item: Bicycle touring
-    #       link:
+        - item: Bicycle touring
+          link:
 
 career-profile:
     title: Career Profile
