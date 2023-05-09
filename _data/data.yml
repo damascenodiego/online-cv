@@ -65,92 +65,39 @@ education:
       - degree: PhD in Computer Science and Computational Mathematics
         university: University of Sao Paulo (ICMC-USP)
         time: 2016 - 2020
-        details: #|
-          # Describe your study here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          # sociis natoque penatibus et magnis dis parturient montes, nascetur
-          # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          # pretium quis, sem.
-          #   - Bullet point
-          #   - Bullet point
+        details: 
       - degree: MBA in Project Management
         university: University of Sao Paulo (USP/ESALq)
         time: 2020 - 2021
-        details: #|
-          # Describe your study here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          # sociis natoque penatibus et magnis dis parturient montes, nascetur
-          # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          # pretium quis, sem.
-          #   - Bullet point
-          #   - Bullet point
+        details: 
       - degree: MSc in Computer Science and Computational Mathematics
         university: University of Sao Paulo (ICMC-USP)
         time: 2014 - 2016
-        details: #|
-          # Describe your study here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          # sociis natoque penatibus et magnis dis parturient montes, nascetur
-          # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          # pretium quis, sem.
-          #   - Bullet point
-          #   - Bullet point
+        details: 
       - degree: BSc in Computer Science
         university: Federal University of Pará (UFPa)
         time: 2007 - 2011
-        details: #|
-          # Describe your study here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          # sociis natoque penatibus et magnis dis parturient montes, nascetur
-          # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          # pretium quis, sem.
-          #   - Bullet point
-          #   - Bullet point
+        details: 
 experiences:
     title: Experiences
     info:
       - role: Postdoctoral researcher
         time: 2020 - 2023
         company: Radboud Universiteit Nijmegen, NL
-        details: |
-          # Describe your role here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          # Cum sociis natoque penatibus et magnis dis parturient montes,
-          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          # pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          # enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          # error sit voluptatem accusantium doloremque laudantium, totam rem
-          # aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          # architecto beatae vitae dicta sunt explicabo.
-          #  - Bullet point
-          #  - Bullet point
+        details: 
           - Research and education in model-based testing, automata learning, and product-line engineering 
           - Project management applied to open science and research artifacts
           - Teaching and supervision of BSc and MSc students 
-      - role: Students Supervisor
+      - role: Student Supervisor and Online tutor
         time: 2020
         company: Postgraduate Program of Applied Computing in Education (CAE-USP),  Sao Carlos, BR
-        details: |
-          # Describe your role here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          # Cum sociis natoque penatibus et magnis dis parturient montes,
-          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          # pellentesque eu, pretium quis, sem.
-          #   - Bullet point
-          #   - Bullet point
+        details: 
           - Supervised students developing term papers on Educational Data Mining
           - Produced educational content in video format for a module on Scientific Writing and Methodology in Informatics in Education. 
       - role: Visiting PhD Student Researcher
         time: 2018 - 2019
         company: University of Leicester, UK
-        details: |
-          # Describe your role here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          # Cum sociis natoque penatibus et magnis dis parturient montes,
-          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          # pellentesque eu, pretium quis, sem.
-          #   - Bullet point
-          #   - Bullet point
+        details: 
           - Designed and developed theories and tools to capture behavior variability and evolution 
           - Experimented with model-based approaches to analyze behavioral and data variations in cyber-physical systems 
           - Mediated science outreach activities with experts in artificial intelligence and autonomous vehicles
