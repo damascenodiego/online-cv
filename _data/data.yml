@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://damascenodiego.github.io/assets/pdf/damasceno_cv.pdf
+    pdf: /print
 
     languages:
       title: Languages
