@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: 
     phone: 
-    timezone: Dutch Timezone
+    timezone: 
     citizenship:
     website: damascenodiego.github.io #do not add http://
     linkedin: damascenodiego
@@ -109,43 +109,52 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Postdoctoral researcher
+        time: 2020 - 2023
+        company: Radboud Universiteit Nijmegen, NL
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          # Describe your role here lorem ipsum dolor sit amet, consectetuer
+          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          # Cum sociis natoque penatibus et magnis dis parturient montes,
+          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          # pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          # enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          # error sit voluptatem accusantium doloremque laudantium, totam rem
+          # aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          # architecto beatae vitae dicta sunt explicabo.
+          #  - Bullet point
+          #  - Bullet point
+          - Research and education in model-based testing, automata learning, and product-line engineering 
+          - Project management applied to open science and research artifacts
+          - Teaching and supervision of BSc and MSc students 
+      - role: Students Supervisor
+        time: 2020
+        company: Postgraduate Program of Applied Computing in Education (CAE-USP),  Sao Carlos, BR
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          # Describe your role here lorem ipsum dolor sit amet, consectetuer
+          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          # Cum sociis natoque penatibus et magnis dis parturient montes,
+          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          # pellentesque eu, pretium quis, sem.
+          #   - Bullet point
+          #   - Bullet point
+          - Supervised students developing term papers on Educational Data Mining
+          - Produced educational content in video format for a module on Scientific Writing and Methodology in Informatics in Education. 
+      - role: Visiting PhD Student Researcher
+        time: 2018 - 2019
+        company: University of Leicester, UK
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          # Describe your role here lorem ipsum dolor sit amet, consectetuer
+          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          # Cum sociis natoque penatibus et magnis dis parturient montes,
+          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          # pellentesque eu, pretium quis, sem.
+          #   - Bullet point
+          #   - Bullet point
+          - Designed and developed theories and tools to capture behavior variability and evolution 
+          - Experimented with model-based approaches to analyze behavioral and data variations in cyber-physical systems 
+          - Mediated science outreach activities with experts in artificial intelligence and autonomous vehicles
+
 # projects:
 #     title: Projects
 #     intro: >
