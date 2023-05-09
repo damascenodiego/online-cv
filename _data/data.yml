@@ -83,7 +83,7 @@ experiences:
     info:
       - role: Postdoctoral researcher
         time: 2020 - 2023
-        company: Radboud Universiteit Nijmegen, NL
+        company: Radboud University, Nijmegen, NL
         details: |
           - Research and education in model-based testing, automata learning, and product-line engineering 
           - Project management applied to open science and research artifacts
@@ -101,6 +101,28 @@ experiences:
           - Designed and developed theories and tools to capture behavior variability and evolution 
           - Experimented with model-based approaches to analyze behavioral and data variations in cyber-physical systems 
           - Mediated science outreach activities with experts in artificial intelligence and autonomous vehicles
+      - role: MSc and PhD Student Researcher
+        time: 2018 - 2019
+        company: Software Engineering Lab (LabES), São Carlos, BR
+        details: |
+          - Built expertise in software engineering, formal methods, model learning, and software product lines
+          - Collaborated with experts in systems-of-systems and education informatics
+          - Developed tool prototypes using Java, Python, R, and C/C++
+          - Worked as a teaching assistant in 5 courses and supervisor of 6 postgraduate students
+      - role: Visiting PhD Student Researcher
+        time: 2018 - 2019
+        company: Siemens Corporate Research, Princeton, USA
+        details: |
+          - Gained experience with model-based testing, Eclipse RCP, TDD, and Junit
+          - Contributed with testing, bug fixes, and new features development
+          - Developed and integrated model-based methodologies for functional and performance testing
+      # - role: Visiting PhD Student Researcher
+      #   time: 2018 - 2019
+      #   company: University of Leicester, UK
+      #   details: |
+      #     - Designed and developed theories and tools to capture behavior variability and evolution 
+      #     - Experimented with model-based approaches to analyze behavioral and data variations in cyber-physical systems 
+      #     - Mediated science outreach activities with experts in artificial intelligence and autonomous vehicles
 
 # projects:
 #     title: Projects
