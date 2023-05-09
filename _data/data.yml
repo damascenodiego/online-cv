@@ -81,7 +81,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Postdoctoral researcher
+      - role: Postdoctoral Researcher in Software Science
         time: 2020 - 2023
         company: Radboud University, Nijmegen, NL
         details: |
@@ -90,7 +90,7 @@ experiences:
           - Teaching and supervision of BSc and MSc students 
       - role: Student Supervisor and Online tutor
         time: 2020
-        company: Postgraduate Program of Applied Computing in Education (CAE-USP),  Sao Carlos, BR
+        company: Postgraduate Program of Applied Computing in Education (CAE-USP),  Sao Carlos-SP, BR
         details: |
           - Supervised students developing term papers on Educational Data Mining
           - Produced educational content in video format for a module on Scientific Writing and Methodology in Informatics in Education. 
@@ -102,20 +102,34 @@ experiences:
           - Experimented with model-based approaches to analyze behavioral and data variations in cyber-physical systems 
           - Mediated science outreach activities with experts in artificial intelligence and autonomous vehicles
       - role: MSc and PhD Student Researcher
-        time: 2018 - 2019
-        company: Software Engineering Lab (LabES), São Carlos, BR
+        time: 2014 - 2020
+        company: Software Engineering Lab (LabES), São Carlos-SP, BR
         details: |
           - Built expertise in software engineering, formal methods, model learning, and software product lines
           - Collaborated with experts in systems-of-systems and education informatics
           - Developed tool prototypes using Java, Python, R, and C/C++
           - Worked as a teaching assistant in 5 courses and supervisor of 6 postgraduate students
-      - role: Visiting PhD Student Researcher
-        time: 2018 - 2019
-        company: Siemens Corporate Research, Princeton, USA
+      - role: Software Engineering Intern
+        time: 2012 - 2013
+        company: Siemens Corporate Research, Princeton-NJ, USA
         details: |
           - Gained experience with model-based testing, Eclipse RCP, TDD, and Junit
           - Contributed with testing, bug fixes, and new features development
           - Developed and integrated model-based methodologies for functional and performance testing
+      - role: Scientific Initiation Fellow
+        time: 2011 - 2012
+        company: 2 Laboratory of Computational Intelligence (LINC/UFPa), Belem-PA, BR
+        details: |
+          - Developed research work at the intersection of data mining and bioinformatics
+          - Gained experience with C/C++, Python, data structures, Linux, scientific writing, and benchmarking
+          - Co-authored one conference paper introducing a technique for pre-processing DNA sequencing data.
+      - role: Scientific Initiation Fellow
+        time: 2010 - 2011
+        company: High Performance Network Planning Laboratory (LPRAD/UFPa), Belem-PA, BR
+        details: |
+          - Developed a tool prototype for data pre-processing based on string similarity metrics
+          - Gained experience with Java, GUI programming, Linux, similarity metrics, and scientific writing
+          - Authored one workshop paper presenting a tool for string normalization using similiarity metrics
       # - role: Visiting PhD Student Researcher
       #   time: 2018 - 2019
       #   company: University of Leicester, UK
