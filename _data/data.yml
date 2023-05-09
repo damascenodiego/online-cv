@@ -84,20 +84,20 @@ experiences:
       - role: Postdoctoral researcher
         time: 2020 - 2023
         company: Radboud Universiteit Nijmegen, NL
-        details: 
+        details: |
           - Research and education in model-based testing, automata learning, and product-line engineering 
           - Project management applied to open science and research artifacts
           - Teaching and supervision of BSc and MSc students 
       - role: Student Supervisor and Online tutor
         time: 2020
         company: Postgraduate Program of Applied Computing in Education (CAE-USP),  Sao Carlos, BR
-        details: 
+        details: |
           - Supervised students developing term papers on Educational Data Mining
           - Produced educational content in video format for a module on Scientific Writing and Methodology in Informatics in Education. 
       - role: Visiting PhD Student Researcher
         time: 2018 - 2019
         company: University of Leicester, UK
-        details: 
+        details: |
           - Designed and developed theories and tools to capture behavior variability and evolution 
           - Experimented with model-based approaches to analyze behavioral and data variations in cyber-physical systems 
           - Mediated science outreach activities with experts in artificial intelligence and autonomous vehicles
